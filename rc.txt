@@ -1,2 +1,0 @@
-﻿listen = http://127.0.0.1:7777
-proxy = ss://aes-256-cfb:jingming@106.187.41.249:8888
